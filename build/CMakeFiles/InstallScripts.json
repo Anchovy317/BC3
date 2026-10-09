@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/Anchovy/BC3/bc3_visor_qt/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
