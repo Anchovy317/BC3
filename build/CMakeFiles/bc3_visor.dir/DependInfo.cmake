@@ -1,0 +1,30 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "" "bc3_visor_autogen/timestamp" "custom" "bc3_visor_autogen/deps"
+  "/home/Anchovy/BC3/bc3_visor_qt/build/bc3_visor_autogen/mocs_compilation.cpp" "CMakeFiles/bc3_visor.dir/bc3_visor_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/bc3_visor.dir/bc3_visor_autogen/mocs_compilation.cpp.o.d"
+  "/home/Anchovy/BC3/bc3_visor_qt/src/GastoReal.cpp" "CMakeFiles/bc3_visor.dir/src/GastoReal.cpp.o" "gcc" "CMakeFiles/bc3_visor.dir/src/GastoReal.cpp.o.d"
+  "/home/Anchovy/BC3/bc3_visor_qt/src/MainWindow.cpp" "CMakeFiles/bc3_visor.dir/src/MainWindow.cpp.o" "gcc" "CMakeFiles/bc3_visor.dir/src/MainWindow.cpp.o.d"
+  "/home/Anchovy/BC3/bc3_visor_qt/src/ModeloPresupuesto.cpp" "CMakeFiles/bc3_visor.dir/src/ModeloPresupuesto.cpp.o" "gcc" "CMakeFiles/bc3_visor.dir/src/ModeloPresupuesto.cpp.o.d"
+  "/home/Anchovy/BC3/bc3_visor_qt/src/Presupuesto.cpp" "CMakeFiles/bc3_visor.dir/src/Presupuesto.cpp.o" "gcc" "CMakeFiles/bc3_visor.dir/src/Presupuesto.cpp.o.d"
+  "/home/Anchovy/BC3/bc3_visor_qt/src/main.cpp" "CMakeFiles/bc3_visor.dir/src/main.cpp.o" "gcc" "CMakeFiles/bc3_visor.dir/src/main.cpp.o.d"
+  "" "bc3_visor" "gcc" "CMakeFiles/bc3_visor.dir/link.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

@@ -1,0 +1,6 @@
+/home/Anchovy/BC3/bc3_visor_qt/build/CMakeFiles/bc3_visor.dir
+/home/Anchovy/BC3/bc3_visor_qt/build/CMakeFiles/test.dir
+/home/Anchovy/BC3/bc3_visor_qt/build/CMakeFiles/edit_cache.dir
+/home/Anchovy/BC3/bc3_visor_qt/build/CMakeFiles/rebuild_cache.dir
+/home/Anchovy/BC3/bc3_visor_qt/build/CMakeFiles/bc3_visor_autogen_timestamp_deps.dir
+/home/Anchovy/BC3/bc3_visor_qt/build/CMakeFiles/bc3_visor_autogen.dir
